@@ -1,0 +1,127 @@
+1
+00:00:00,100 --> 00:00:05,971
+In a study of ten popular crypto wallets, eight had no accessibility features.
+
+2
+00:00:05,921 --> 00:00:11,315
+Blind users sent money to the wrong address, because nothing read it back.
+
+3
+00:00:11,566 --> 00:00:13,594
+This is Readback.
+
+4
+00:00:13,544 --> 00:00:17,109
+An accessibility-first way to use Solana.
+
+5
+00:00:17,109 --> 00:00:19,780
+AI understands your request.
+
+6
+00:00:19,780 --> 00:00:21,808
+Code checks everything.
+
+7
+00:00:21,808 --> 00:00:23,426
+You decide.
+
+8
+00:00:23,666 --> 00:00:26,050
+There are no passwords.
+
+9
+00:00:26,000 --> 00:00:31,881
+Your test wallet lives in your browser, or you can try a demo account with one click.
+
+10
+00:00:32,133 --> 00:00:36,043
+I type: send zero point two SOL to Mum.
+
+11
+00:00:35,993 --> 00:00:39,783
+Readback fills the form, but approves nothing.
+
+12
+00:00:39,783 --> 00:00:46,111
+The review reads back the contact, the full address, the fee, and the balance after.
+
+13
+00:00:46,111 --> 00:00:48,664
+I confirm with a key press.
+
+14
+00:00:48,664 --> 00:00:53,177
+This is the demo account, so nothing is sent to Solana.
+
+15
+00:00:53,433 --> 00:00:56,317
+It only pays saved contacts.
+
+16
+00:00:56,267 --> 00:01:00,188
+It enforces a limit of half a SOL per payment.
+
+17
+00:01:00,188 --> 00:01:05,398
+And when someone tries to talk it into sending everything, it refuses.
+
+18
+00:01:05,398 --> 00:01:07,423
+AI can be fooled.
+
+19
+00:01:07,423 --> 00:01:09,780
+It still can't move money.
+
+20
+00:01:10,033 --> 00:01:15,246
+Lookalike addresses copy the first and last characters of one you trust.
+
+21
+00:01:15,196 --> 00:01:19,314
+Readback flags them, and makes you confirm twice.
+
+22
+00:01:19,314 --> 00:01:24,788
+It even spells addresses with letter case, because a screen reader won't.
+
+23
+00:01:25,033 --> 00:01:28,759
+Every screen works with a keyboard and a screen reader.
+
+24
+00:01:28,709 --> 00:01:31,498
+Focus always lands where you are.
+
+25
+00:01:31,498 --> 00:01:34,327
+Motion respects your settings.
+
+26
+00:01:34,327 --> 00:01:37,735
+Text size and contrast are one switch away.
+
+27
+00:01:37,966 --> 00:01:40,033
+AI understands.
+
+28
+00:01:39,983 --> 00:01:42,023
+Code verifies.
+
+29
+00:01:42,023 --> 00:01:43,707
+You approve.
+
+30
+00:01:43,707 --> 00:01:45,812
+Solana settles.
+
+31
+00:01:45,812 --> 00:01:47,298
+Readback.
+
+32
+00:01:47,298 --> 00:01:52,142
+A Devnet prototype, built for the MLH Solana hackathon.
