@@ -1,0 +1,1 @@
+Every screen works with a keyboard and a screen reader. Focus always lands where you are. Motion respects your settings. Text size and contrast are one switch away.

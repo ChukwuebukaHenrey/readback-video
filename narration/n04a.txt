@@ -1,0 +1,1 @@
+I type: send zero point two SOL to Mum. Readback fills the form, but approves nothing. The review is built from the real transaction, not by AI: the contact, the full address, the fee, and my balance after. I confirm with a key press. Solana Devnet settles it in about a second.

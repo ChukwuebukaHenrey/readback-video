@@ -1,0 +1,20 @@
+1
+00:00:00,100 --> 00:00:02,984
+It only pays saved contacts.
+
+2
+00:00:02,934 --> 00:00:06,855
+It enforces a limit of half a SOL per payment.
+
+3
+00:00:06,855 --> 00:00:12,065
+And when someone tries to talk it into sending everything, it refuses.
+
+4
+00:00:12,065 --> 00:00:14,090
+AI can be fooled.
+
+5
+00:00:14,090 --> 00:00:16,447
+It still can't move money.
+

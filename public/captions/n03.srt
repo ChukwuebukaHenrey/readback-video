@@ -1,0 +1,8 @@
+1
+00:00:00,100 --> 00:00:02,484
+There are no passwords.
+
+2
+00:00:02,434 --> 00:00:08,315
+Your test wallet lives in your browser, or you can try a demo account with one click.
+

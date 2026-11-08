@@ -1,0 +1,20 @@
+1
+00:00:00,100 --> 00:00:02,128
+This is Readback.
+
+2
+00:00:02,078 --> 00:00:05,643
+An accessibility-first way to use Solana.
+
+3
+00:00:05,643 --> 00:00:08,314
+AI understands your request.
+
+4
+00:00:08,314 --> 00:00:10,342
+Code checks everything.
+
+5
+00:00:10,342 --> 00:00:11,960
+You decide.
+

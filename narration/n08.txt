@@ -1,0 +1,1 @@
+AI understands. Code verifies. You approve. Solana settles. Readback. A Devnet prototype, built for the MLH Solana hackathon.
