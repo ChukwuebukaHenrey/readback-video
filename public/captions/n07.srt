@@ -1,0 +1,16 @@
+1
+00:00:00,100 --> 00:00:03,826
+Every screen works with a keyboard and a screen reader.
+
+2
+00:00:03,776 --> 00:00:06,565
+Focus always lands where you are.
+
+3
+00:00:06,565 --> 00:00:09,394
+Motion respects your settings.
+
+4
+00:00:09,394 --> 00:00:12,802
+Text size and contrast are one switch away.
+

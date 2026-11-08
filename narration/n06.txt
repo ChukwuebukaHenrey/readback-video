@@ -1,0 +1,1 @@
+Lookalike addresses copy the first and last characters of one you trust. Readback flags them, and makes you confirm twice. It even spells addresses with letter case, because a screen reader won't.

@@ -1,0 +1,1 @@
+It only pays saved contacts. It enforces a limit of half a SOL per payment. And when someone tries to talk it into sending everything, it refuses. AI can be fooled. It still can't move money.

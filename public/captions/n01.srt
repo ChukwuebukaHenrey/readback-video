@@ -1,0 +1,8 @@
+1
+00:00:00,100 --> 00:00:05,971
+In a study of ten popular crypto wallets, eight had no accessibility features.
+
+2
+00:00:05,921 --> 00:00:11,315
+Blind users sent money to the wrong address, because nothing read it back.
+

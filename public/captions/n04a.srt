@@ -1,0 +1,20 @@
+1
+00:00:00,100 --> 00:00:04,010
+I type: send zero point two SOL to Mum.
+
+2
+00:00:03,960 --> 00:00:07,750
+Readback fills the form, but approves nothing.
+
+3
+00:00:07,750 --> 00:00:17,065
+The review is built from the real transaction, not by AI: the contact, the full address, the fee, and my balance after.
+
+4
+00:00:17,065 --> 00:00:19,618
+I confirm with a key press.
+
+5
+00:00:19,618 --> 00:00:23,328
+Solana Devnet settles it in about a second.
+

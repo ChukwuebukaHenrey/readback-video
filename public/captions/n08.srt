@@ -1,0 +1,24 @@
+1
+00:00:00,100 --> 00:00:02,167
+AI understands.
+
+2
+00:00:02,117 --> 00:00:04,157
+Code verifies.
+
+3
+00:00:04,157 --> 00:00:05,841
+You approve.
+
+4
+00:00:05,841 --> 00:00:07,946
+Solana settles.
+
+5
+00:00:07,946 --> 00:00:09,432
+Readback.
+
+6
+00:00:09,432 --> 00:00:14,276
+A Devnet prototype, built for the MLH Solana hackathon.
+

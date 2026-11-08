@@ -1,0 +1,12 @@
+1
+00:00:00,100 --> 00:00:05,313
+Lookalike addresses copy the first and last characters of one you trust.
+
+2
+00:00:05,263 --> 00:00:09,381
+Readback flags them, and makes you confirm twice.
+
+3
+00:00:09,381 --> 00:00:14,855
+It even spells addresses with letter case, because a screen reader won't.
+

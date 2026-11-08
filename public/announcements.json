@@ -1,0 +1,7 @@
+[
+  { "scene": 4, "fromSec": 7.8, "toSec": 14.0, "text": "Review payment. 0.2 SOL to Mum. Network fee and balance after are listed below." },
+  { "scene": 4, "fromSec": 16.7, "toSec": 21.0, "text": "Demo payment confirmed. Nothing was sent to Solana." },
+  { "scene": 5, "fromSec": 0.3, "toSec": 2.9, "text": "Can't send. Bob is not a saved contact." },
+  { "scene": 5, "fromSec": 3.0, "toSec": 6.8, "text": "Can't send. 5 SOL is over the 0.5 SOL per-payment limit." },
+  { "scene": 5, "fromSec": 6.9, "toSec": 12.0, "text": "Can't send. Requests can't change Readback's safety rules." }
+]

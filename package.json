@@ -1,7 +1,7 @@
 {
   "name": "readback-video",
   "version": "1.0.0",
-  "description": "My Remotion video",
+  "description": "Readback demo video (Remotion)",
   "repository": {},
   "license": "UNLICENSED",
   "engines": {
@@ -9,7 +9,15 @@
   },
   "private": true,
   "dependencies": {
+    "@fontsource-variable/onest": "^5.3.1",
+    "@remotion/captions": "^4.0.541",
     "@remotion/cli": "4.0.541",
+    "@remotion/fonts": "^4.0.541",
+    "@remotion/google-fonts": "^4.0.541",
+    "@remotion/media-parser": "^4.0.541",
+    "@remotion/media-utils": "^4.0.541",
+    "@remotion/renderer": "^4.0.541",
+    "@remotion/transitions": "^4.0.541",
     "react": "19.3.1",
     "react-dom": "19.3.1",
     "remotion": "4.0.541"
@@ -26,7 +34,10 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "render": "remotion render ReadbackDemo out/readback-demo.mp4 --codec=h264 --crf=18",
+    "render:srt": "node scripts/render-srt.mjs b out/readback-demo.srt",
+    "narration": "node scripts/narration.mjs"
   },
   "allowScripts": {
     "esbuild": false
